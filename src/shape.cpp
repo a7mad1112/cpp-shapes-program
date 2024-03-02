@@ -1,4 +1,4 @@
-#include "../include/Shape.h"
+#include "../include/shape.h"
 #include <iostream>
 using namespace std;
 Shape::Shape(const string &n, int loc[3]) : name(n)
