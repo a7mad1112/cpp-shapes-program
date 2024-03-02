@@ -1,0 +1,4 @@
+3
+Sphere 4 2 3 4
+Cylinder 2 7 1 2 3
+Cube 4 5 6 7
